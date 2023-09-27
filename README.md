@@ -1,4 +1,4 @@
-# NFT PROFILE PICTURE
+# NFT PROFILES PICTURES
 
 - 0xkiyo (1).jpg
 - 0xkiyo (2).jpg
